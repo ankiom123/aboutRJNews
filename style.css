@@ -1,0 +1,12 @@
+#image img {
+    width: 100px;
+    height: 100px;
+    margin-left: 10%;
+}
+#title p{
+    font-size: 18px;
+}
+#description img{
+    width: 20px;
+    height: 20px;
+}
