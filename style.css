@@ -3,7 +3,10 @@
     height: 100px;
 }
 #title p{
-    font-size: 18px;
+    font-size: 20px;
+}
+strong {
+    font-size: 20px;
 }
 #description img{
     width: 20px;
